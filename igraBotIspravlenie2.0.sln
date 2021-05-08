@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igraBotIspravlenie2.0", "igraBotIspravlenie2.0\igraBotIspravlenie2.0.csproj", "{39C176E3-AB20-43C7-8FD6-60D441AC31A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C176E3-AB20-43C7-8FD6-60D441AC31A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C176E3-AB20-43C7-8FD6-60D441AC31A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C176E3-AB20-43C7-8FD6-60D441AC31A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C176E3-AB20-43C7-8FD6-60D441AC31A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3202D6F3-40B4-4394-8865-F578575EDC8D}
+	EndGlobalSection
+EndGlobal
